@@ -1,0 +1,11 @@
+/Users/polinavolodina/Documents/methods3/bin/Debug/netcoreapp3.0/methods3
+/Users/polinavolodina/Documents/methods3/bin/Debug/netcoreapp3.0/methods3.deps.json
+/Users/polinavolodina/Documents/methods3/bin/Debug/netcoreapp3.0/methods3.runtimeconfig.json
+/Users/polinavolodina/Documents/methods3/bin/Debug/netcoreapp3.0/methods3.runtimeconfig.dev.json
+/Users/polinavolodina/Documents/methods3/bin/Debug/netcoreapp3.0/methods3.dll
+/Users/polinavolodina/Documents/methods3/bin/Debug/netcoreapp3.0/methods3.pdb
+/Users/polinavolodina/Documents/methods3/obj/Debug/netcoreapp3.0/methods3.csprojAssemblyReference.cache
+/Users/polinavolodina/Documents/methods3/obj/Debug/netcoreapp3.0/methods3.AssemblyInfoInputs.cache
+/Users/polinavolodina/Documents/methods3/obj/Debug/netcoreapp3.0/methods3.AssemblyInfo.cs
+/Users/polinavolodina/Documents/methods3/obj/Debug/netcoreapp3.0/methods3.dll
+/Users/polinavolodina/Documents/methods3/obj/Debug/netcoreapp3.0/methods3.pdb
